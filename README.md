@@ -25,4 +25,6 @@ Change Vehicle Turbo system
 # default config only mechanic
 
 # dependency 
-- ESX
+- ESX - QBCORE
+Creditos Renzuzu By.
+https://github.com/renzuzu/renzu_turbo
