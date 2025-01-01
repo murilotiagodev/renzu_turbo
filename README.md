@@ -26,8 +26,7 @@ Change Vehicle Turbo system
 
 # dependency 
 - ESX - QBCORE - QBOX
-![Image Alt](**image_url**)
-
+https://github.com/murilotiagodev/renzu_turbo/issues/1#issue-2765085457
 
 Creditos Renzuzu By.
 https://github.com/renzuzu/renzu_turbo
